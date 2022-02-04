@@ -1,6 +1,6 @@
 (footprint "Potentiometer_Bourns_PDB181-K415K-x" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61FBF258)
+  (tedit 61FD6C57)
   (descr "Potentiometer, horizontal, Alps RK09Y11 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09Y11/RK09Y11_list.html")
   (tags "Potentiometer horizontal Alps RK09Y11 Single")
   (attr through_hole)
@@ -47,7 +47,7 @@
   (pad "3" thru_hole circle (at 0 -10) (size 2.3 2.3) (drill 1.32) (layers *.Cu *.Mask) (tstamp 52873ac2-3da3-43ec-8745-b6cc749579fd))
   (model "${KIPRJMOD}/3d/pdb181-k415k-103b.stp"
     (offset (xyz 3.85 5 12.5))
-    (scale (xyz 0.0394 0.0394 0.0394))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )
